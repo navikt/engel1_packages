@@ -49,3 +49,8 @@ seaborn==0.7.1
 
 # Erik
 dataverk==0.1.15
+
+# Paul
+pdf2image==1.10.0
+pytesseract==0.3.0
+
